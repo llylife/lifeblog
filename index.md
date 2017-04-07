@@ -11,5 +11,5 @@ btn.style.display='block';
 btn.href='https://llylife.github.io/lifeblog/';
 setTimeout(function(){
 document.querySelector('.site-footer-owner').innerHTML="CopyRight(@)2017"
-},100)
+},500)
 </script>
