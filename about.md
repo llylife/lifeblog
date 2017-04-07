@@ -20,4 +20,13 @@ google_analytics: [Your Google Analytics tracking ID]
 	float:left;
 	margin:0 20px 0 0;
 }
+footer {
+    width: 650px;
+    position: fixed;
+    /* left: 50%; */
+    /* margin-left: -530px; */
+    bottom: 20px;
+    text-align: left;
+    line-height: 16px;
+}
 </style>
