@@ -19,9 +19,13 @@ document.querySelector('footer').innerHTML="CopyRight(@)2017"
 </script>
 <style>
 .nav{
+	float: left;
+    display: block;
+    width:100%;
 	padding-left:20px;
 }
 .nav li{
 	float:left;
+	margin:0 20px 0 0;
 }
 </style>
