@@ -3,6 +3,11 @@
 	<li><a href="/lifeblog/about">关于我们</a></li>
 </ul>
 这里是简介说明
+```yml
+show_downloads: ["true" or "false" to indicate whether to provide a download URL]
+google_analytics: [Your Google Analytics tracking ID]
+```
+
 <script src="js/group.js"></script>
 <style>
 .nav{
