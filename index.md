@@ -5,5 +5,6 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 <script>
-document.querySelector('.btn').style.display='none'
+document.querySelector('.btn').innerHTML="欢迎来到前端攻城狮城堡"
+//document.querySelector('.btn').style.display='none'
 </script>
