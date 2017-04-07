@@ -2,6 +2,7 @@
 	<li><a href="/lifeblog">首页</a></li>
 	<li><a href="/lifeblog/about">关于我们</a></li>
 </ul>
+------------------
 这里是简介说明
 ```yml
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
@@ -23,8 +24,8 @@ google_analytics: [Your Google Analytics tracking ID]
 footer {
     width: 650px;
     position: fixed;
-    /* left: 50%; */
-    /* margin-left: -530px; */
+    left: auto; 
+    margin-left: 0; 
     bottom: 20px;
     text-align: left;
     line-height: 16px;

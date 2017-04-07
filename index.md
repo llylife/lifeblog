@@ -2,10 +2,14 @@
 	<li><a href="/lifeblog">首页</a></li>
 	<li><a href="/lifeblog/about">关于我们</a></li>
 </ul>
+
+```yml
 网站构建中即将上线，敬请期待！
+```
 
+------------------
 <b style="color:red">上线时间：</b>
-
+------------------
 2017年4月下旬
 
 <script src="js/group.js"></script>
@@ -23,8 +27,8 @@
 footer {
     width: 650px;
     position: fixed;
-    /* left: 50%; */
-    /* margin-left: -530px; */
+    left: auto; 
+    margin-left: 0; 
     bottom: 20px;
     text-align: left;
     line-height: 16px;
