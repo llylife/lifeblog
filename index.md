@@ -5,5 +5,5 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 <script>
-document.querySelector('.btn').style.display='hidden'
+document.querySelector('.btn').style.display='none'
 </script>
