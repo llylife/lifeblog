@@ -7,7 +7,7 @@
 show_downloads: ["true" or "false" to indicate whether to provide a download URL]
 google_analytics: [Your Google Analytics tracking ID]
 ```
-
+------------------
 <script src="js/group.js"></script>
 <style>
 .nav{
