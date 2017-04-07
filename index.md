@@ -1,4 +1,4 @@
-<ul>
+<ul class="nav">
 	<li><a href="/lifeblog">首页</a></li>
 	<li><a href="/lifeblog/about">关于我们</a></li>
 </ul>
@@ -17,3 +17,11 @@ setTimeout(function(){
 document.querySelector('footer').innerHTML="CopyRight(@)2017"
 },200)
 </script>
+<style>
+.nav{
+	padding-left:20px;
+}
+.nav li{
+	float:left;
+}
+</style>
