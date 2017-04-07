@@ -10,5 +10,5 @@ var footer=document.querySelector('.site-footer-owner');
 btn.innerHTML="欢迎来到前端攻城狮城堡";
 btn.style.display='block';
 btn.href='https://llylife.github.io/lifeblog/';
-footer.innerHTML="CopyRight &copy; 2017 "
+footer.innerHTML="CopyRight(@)2017 "
 </script>
