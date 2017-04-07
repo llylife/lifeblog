@@ -3,6 +3,8 @@
 	<li><a href="/lifeblog/about">关于我们</a></li>
 </ul>
 
+###重要公告
+
 ```yml
 网站构建中即将上线，敬请期待！
 ```
